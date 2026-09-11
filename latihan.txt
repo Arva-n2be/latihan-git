@@ -1,2 +1,2 @@
-Saya sedang belajar Git dan GitHub.
+Saya sedang belajar fitur B.
 Saya sedang belajar branch.
