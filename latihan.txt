@@ -1,2 +1,2 @@
-Saya belajar Git dari fitur A.
+Saya belajar Git dari fitur B.
 Saya sedang belajar branch.
