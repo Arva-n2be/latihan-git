@@ -1,1 +1,1 @@
-#Latihan git
+Saya sedang belajar Git dan GitHub.
